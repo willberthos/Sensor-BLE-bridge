@@ -1,0 +1,11 @@
+bleak==0.22.2
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.8
+pyobjc-core==10.3.1
+pyobjc-framework-Cocoa==10.3.1
+pyobjc-framework-CoreBluetooth==10.3.1
+pyobjc-framework-libdispatch==10.3.1
+requests==2.32.3
+typing_extensions==4.12.2
+urllib3==2.2.2
